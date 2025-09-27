@@ -41,18 +41,18 @@ Feature Importance shows which transaction features are most influential in pred
 🚀 Tech Stack
 Python 
 
-Data Analysis & Manipulation
+Data Analysis & Manipulation: 
 pandas
 NumPy  
 
-Machine Learning
+Machine Learning: 
 scikit-learn 
 XGBoost 
 LightGBM 
 
-Data Visualization
+Data Visualization: 
 matplotlib 
 seaborn 
 
-Model Saving
+Model Saving: 
 joblib 
