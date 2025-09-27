@@ -5,7 +5,7 @@ Credit Card Fraud Detection using Machine Learning
 This project detects fraudulent credit card transactions using machine learning models. The dataset is highly imbalanced, with only a small fraction of transactions being fraud. The project demonstrates data preprocessing, model training, evaluation, and prediction of new transactions.
 
 📊 Dataset
-Source: Public credit card transactions dataset (e.g., Kaggle).
+Source: Public credit card transactions dataset from kaggle
 
 Features:
 V1 to V28 — anonymized transaction features from PCA transformation
